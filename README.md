@@ -53,8 +53,8 @@ _이텔릭_
 
   # 이미지(Images)
 
-  ![HEROPY](https://heropy.blog/css/images/logo.png)  
-  [![HEROPY](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)
+  ![마시마로](https://mblogthumb-phinf.pstatic.net/MjAxNjEyMDJfMTgx/MDAxNDgwNjcxOTgwNTQz.2MlISCki4rVuwTixXfINn-sez81cBCuNF4x5H37HTLQg.paMy0NYHgTZ1lN0knOKrhNOr79vUuUzaLX6XEuy8M0Ag.JPEG.dbsruddk44/%EC%BA%A1%EC%B2%98.JPG?type=w2)  
+  [![마시마로](https://mblogthumb-phinf.pstatic.net/MjAxNjEyMDJfMTgx/MDAxNDgwNjcxOTgwNTQz.2MlISCki4rVuwTixXfINn-sez81cBCuNF4x5H37HTLQg.paMy0NYHgTZ1lN0knOKrhNOr79vUuUzaLX6XEuy8M0Ag.JPEG.dbsruddk44/%EC%BA%A1%EC%B2%98.JPG?type=w2)](https://blog.naver.com/thch989)
 
   # 인용문(BlockQuoto)
 
@@ -117,7 +117,7 @@ _이텔릭_
  하느님이 보우하사 우리나라 만세
 
   <a href="https://naver.com" title="NAVER로 이동!" target="_blank">NAVER</a>  
-  <img width="70" src="https://heropy.blog/css/images/logo.png" alt="HEROPY" />
+  <img width="70" src="https://mblogthumb-phinf.pstatic.net/MjAxNjEyMDJfMTgx/MDAxNDgwNjcxOTgwNTQz.2MlISCki4rVuwTixXfINn-sez81cBCuNF4x5H37HTLQg.paMy0NYHgTZ1lN0knOKrhNOr79vUuUzaLX6XEuy8M0Ag.JPEG.dbsruddk44/%EC%BA%A1%EC%B2%98.JPG?type=w2" alt="HEROPY" />
 
   # 수평선(Horizontal Rule)
 
